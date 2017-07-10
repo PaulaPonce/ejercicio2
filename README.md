@@ -2,8 +2,9 @@
 ## Arreglo de Objetos
 
 El archivo json.js contiene un arreglo de objetos, donde cada objeto representa un usuario con distintos atributos.
-[Arreglo de objetos](https://jsonplaceholder.typicode.com/users)
+
 ![alt text](https://github.com/PaulaPonce/ejercicio2-atributosJSON/blob/master/assets/img/json.JPG)
+[Arreglo de objetos](https://jsonplaceholder.typicode.com/users)
 
 * Se muestran los 10 usuarios del archivo json. 
 * En el archivo main.js se crean los elementos a mostrar en HTML. 
