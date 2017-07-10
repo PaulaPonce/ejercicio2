@@ -1,0 +1,48 @@
+body{
+	font-family: sans-serif;
+	background-color: #CFCFCF;
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	color: #CFCFCF;
+	background-color: #000040;
+	margin: 0;
+	padding: 1em;
+}
+
+header h1{
+	margin: 1em;
+	padding: 0 .5em;
+}
+
+section{
+	margin: 1em;
+	padding: 1em;
+}
+
+.user{
+	overflow: hidden;
+	padding: 1em;
+}
+
+.user i.fa{
+	color: #000040;
+	font-size: 2em;
+	display: block;
+	float: left;
+	margin: .4em .2em;
+}
+
+.user-info{
+	color: #1F2121;
+	display: block;
+	float: left;
+}
+
+.user-info p{
+	margin: .5em;
+}
+
+/* https://color.adobe.com/es/ETI-1-color-theme-9749315 */

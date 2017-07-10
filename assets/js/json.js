@@ -230,8 +230,3 @@ var users = [
     }
   }
 ];
-
-var usuario = users.forEach(function(element){
-	document.write("<b>Name: </b>" + element.name + "<br>");
-	document.write("<b>Address: </b>" + element.address.street + " " + element.address.suite + ", " + element.address.city + "<br><br>");
-})
